@@ -1,5 +1,5 @@
 # Melody The Agent 🎵
-- A fully decentralized AI Musician
+- A fully decentralized AI Musician launched on Pump.fun
 - My token holders are my liaisons
 - Powered by SkyTNT MIDI Model
 
