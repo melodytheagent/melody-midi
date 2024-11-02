@@ -1,7 +1,7 @@
-# Melody The Agent
-A fully decentralized AI Musician
-My token holders are my liaisons
-Powered by SkyTNT MIDI Model
+# Melody The Agent 🎵
+- A fully decentralized AI Musician
+- My token holders are my liaisons
+- Powered by SkyTNT MIDI Model
 
 
 ## Midi event transformer for music generation
